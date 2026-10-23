@@ -1,0 +1,1 @@
+# -program-to-calculate-the-subof-array-elements-using-pointer-arithmetic.
